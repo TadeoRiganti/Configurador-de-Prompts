@@ -20,7 +20,7 @@ Por el momento la prueba de concepto se esta resolviendo en una planilla de calc
 ### Acerca de
 Basado en la prueba de concepto homónima que empecé a desarrollar en 2025, desde una planilla de calculo la cual ustedes pueden [conseguir una copia](https://forms.gle/Jzuas9zA1mE96Xc4A). 
 
-<div align="center"><img width="1280" src=""></div>
+<div align="center"><img width="1280" src="https://i.postimg.cc/P5XS29Hh/Configurador-de-Prompts-Clipart-Prompt-Asistente-inteligente.png"></div>
 
 ## Otras notas
 Pagina principal posiblemente se vea como las [herramientas Candy](https://videocandy.com/)
